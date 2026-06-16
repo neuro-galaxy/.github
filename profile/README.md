@@ -1,6 +1,6 @@
 # Neuro Galaxy
 
-Neuro Galaxy is a project to build, train, and deploy foundation models for neuroscience with TorchBrain package:
+Neuro Galaxy is an open-source project dedicated to building, training, and deploying foundation models for neuroscience, powered by the torch_brain package.
 
 <table align="center">
   <tr>
